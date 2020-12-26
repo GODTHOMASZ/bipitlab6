@@ -1,0 +1,14 @@
+C:\Users\THOMAS\source\repos\Server\Server\bin\Debug\Server.dll.config
+C:\Users\THOMAS\source\repos\Server\Server\bin\Debug\Server.dll
+C:\Users\THOMAS\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\THOMAS\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\THOMAS\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\source\repos\Server\Server\obj\Debug\Server.dll
+C:\Users\THOMAS\source\repos\Server\Server\obj\Debug\Server.pdb
+D:\My files\STUDY\bipit\lab6\Server\bin\Debug\Server.dll.config
+D:\My files\STUDY\bipit\lab6\Server\bin\Debug\Server.dll
+D:\My files\STUDY\bipit\lab6\Server\bin\Debug\Server.pdb
+D:\My files\STUDY\bipit\lab6\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\My files\STUDY\bipit\lab6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\My files\STUDY\bipit\lab6\Server\obj\Debug\Server.dll
+D:\My files\STUDY\bipit\lab6\Server\obj\Debug\Server.pdb
